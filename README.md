@@ -91,6 +91,3 @@ CAD files are available at [/CAD](/CAD).
 ---
 
 </div>
-
-
-## BOM
