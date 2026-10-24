@@ -59,7 +59,7 @@ The pads are plain switches, so they send a fixed velocity of 100.
 The MCP23017 runs on 3.3V with 4.7k pull-ups on SDA and SCL. Its address pins are pulled high with solder jumpers to ground, so you can change the I2C address without touching the firmware wiring. The spare GPB4 to GPB7 pins are broken out on a 4 pin header.
 
 ## CAD
-CAD files are available at [/CAD].
+CAD files are available at [/CAD](/CAD).
 
 ## Images
 <div align="center">
