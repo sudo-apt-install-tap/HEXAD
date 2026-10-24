@@ -22,6 +22,7 @@ A USB MIDI controller built around a Raspberry Pi Pico (RP2040) with:
 - **1.8" 128x160 TFT display** that shows which pads are held, the encoder levels and the last MIDI message
 - **MCP23017 I2C expander** that reads the encoder A/B lines, because the Pico ran out of GPIOs
 - Class compliant **USB MIDI**, so there are no drivers to install
+- No Case required, absolutely no 3d print needed!
 
 ### Why?
 
